@@ -1,0 +1,12 @@
+langchain-core
+langchain-openai
+langchain
+ipykernel
+langchain-community
+streamlit
+langchain-ollama
+langserve
+fastapi
+uvicorn
+python-dotenv
+langchain_groq
